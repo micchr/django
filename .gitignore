@@ -1,4 +1,9 @@
+/crudproject/venv/
+/crudproject/__pycache__/
+/crudproject/*.pyc
+/crudproject/db.sqlite3
 /crudproject/.env
+/crudproject/staticfiles/
 /crudproject/crudproject/__pycache__
 /crudproject/crudapp/__pycache__
 /crudproject/crudapp/migrations
